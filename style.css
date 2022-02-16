@@ -1,4 +1,8 @@
 body {
-  background-color: lightred
+  background-color: black
     font-family: Graffiti font 3 language rus bel eng
+    color: white 
+}
+img {
+  text-align: center
 }
