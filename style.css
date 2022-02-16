@@ -1,7 +1,7 @@
 body {
-  background-color: rgb(0, 0, 0);
+     background-color: black
 }
-body p i b {
+p {
     color: rgb(255, 0, 0);
 }
 img {
