@@ -1,10 +1,6 @@
-header {
-      background-color:black;
+body {
+      backgrolund-color:black;
 }
-main {
-    background-color: black;
-      color: red;
-}
-footer {
-      background-color: black;
+body p i b{
+      color:red;
 }
